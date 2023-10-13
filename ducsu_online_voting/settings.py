@@ -10,7 +10,7 @@ env = environ.Env()
 
 environ.Env.read_env()
 
-SECRET_KEY = 'xq0&fn5$*&pvf+xc$$ar)tiljcm!xp1zyvz$r6i-@5apxkk7k$'
+# SECRET_KEY = 'xq0&fn5$*&pvf+xc$$ar)tiljcm!xp1zyvz$r6i-@5apxkk7k$'
 DEBUG = False
 
 ALLOWED_HOSTS = ['*']
